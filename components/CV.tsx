@@ -53,7 +53,7 @@ const CV = () => {
           <div className="mb-6">
             <h3 className="font-mono font-bold">Solutions Engineer @ Instabase, New York (remote)</h3>
             <p className="font-mono text-sm mb-2">10.2022 - 2.2025</p>
-            <li className="font-mono text-xs mb-2">built document-understanding pipelines for enterprise clients using Instabase's AIHub platform, leveraging deep learning and large language models</li>
+            <li className="font-mono text-xs mb-2">built document-understanding pipelines for enterprise clients using Instabase&apos;s AIHub platform, leveraging deep learning and large language models</li>
             <li className="font-mono text-xs mb-2">model training, fine tuning, LLM prompting, data analysis, programming in Python</li>
           </div>
 
@@ -67,7 +67,7 @@ const CV = () => {
           <div className="mb-6">
             <h3 className="font-mono font-bold">Software Engineer @ Cerence, Montréal (remote)</h3>
             <p className="font-mono text-sm">2.2021 - 11.2021</p>
-            <li className="font-mono text-xs mb-2">product dev work on Cerence's template-based speech assistant using Python</li>
+            <li className="font-mono text-xs mb-2">product dev work on Cerence&apos;s template-based speech assistant using Python</li>
           </div>
         </section>
 
