@@ -51,9 +51,9 @@ const CV = () => {
             <h3 className="font-mono font-bold">Solutions Engineer @ Instabase, New York (remote)</h3>
             <p className="font-mono text-sm mb-2">10.2022 - 2.2025</p>
             {/* <ul className="font-mono text-sm list-disc pl-4">
-              <li>building production solutions for Instabase's enterprise clients</li>
+              <li>building production solutions for Instabase&apos;s enterprise clients</li>
               <li>MLOps with deep learning models and large language models</li>
-              <li>interfacing with OpenAI's GPT models and Instabase's internal LLM</li>
+              <li>interfacing with OpenAI&apos;s GPT models and Instabase&apos;s internal LLM</li>
             </ul> */}
           </div>
 
@@ -75,7 +75,7 @@ const CV = () => {
           <div className="mb-4">
             <h3 className="font-mono font-bold">McGill University</h3>
             <p className="font-mono text-sm">PhD, Computational Linguistics (2015 - 2019 dropped out, awarded MA)</p>
-            <p className="font-mono text-sm">supervisor: Timothy O'Donnell</p>
+            <p className="font-mono text-sm">supervisor: Timothy O&apos;Donnell</p>
             <p className="font-mono text-sm">dissertation: Variational bayesian inference for unsupervised induction of formal Minimalist Grammars</p>
           </div>
 
